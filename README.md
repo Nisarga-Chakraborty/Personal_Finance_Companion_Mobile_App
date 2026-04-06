@@ -23,8 +23,8 @@
   <table>
     <tr>
       <td align="center"><strong>Home Dashboard</strong></td>
+      <td align="center"><strong>Home Dashboard</strong></td>
       <td align="center"><strong>Transactions</strong></td>
-      <td align="center"><strong>Insights</strong></td>
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/78ddf600-4b81-4d4e-9374-0196a0485f61" width="250"/></td>
@@ -32,9 +32,9 @@
       <td><img src="https://github.com/user-attachments/assets/2c4b716e-85b5-40b2-b918-ce2ac867717c" width="250"/></td>
     </tr>
     <tr>
+      <td align="center"><strong>Insights</strong></td>
+      <td align="center"><strong>Insights</strong></td>
       <td align="center"><strong>Profile</strong></td>
-      <td align="center"><strong>Add Transaction</strong></td>
-      <td align="center"><strong>Budget</strong></td>
     </tr>
     <tr>
       <td><img src="https://github.com/user-attachments/assets/9ff2891b-3b41-464a-aab4-fbcac371ad9d" width="250"/></td>
@@ -42,7 +42,7 @@
       <td><img src="https://github.com/user-attachments/assets/691f7689-69c0-4d3b-9f42-5f9d5d5e7d27" width="250"/></td>
     </tr>
     <tr>
-      <td align="center" colspan="3"><strong>Transaction Details</strong></td>
+      <td align="center" colspan="3"><strong>Add Transactions</strong></td>
     </tr>
     <tr>
       <td colspan="3" align="center"><img src="https://github.com/user-attachments/assets/6c72e8e8-da27-467f-bee3-93269123cb13" width="250"/></td>
